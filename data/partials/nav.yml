@@ -1,0 +1,9 @@
+nav:
+  items:
+    -
+      title: "Home"
+      href: "index.html"
+
+    -
+      title: "About"
+      href: "about.html"

@@ -1,0 +1,10 @@
+{
+  "name": "bundlebars-static-site-seed",
+  "description": "Static site built with Bundlebars",
+  "version": "0.1.0",
+  "devDependencies": {
+    "bundlebars": "^0.4.0-1",
+    "grunt": "^0.4.5",
+    "grunt-data-merge": "^0.1.0"
+  }
+}

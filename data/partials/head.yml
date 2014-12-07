@@ -1,0 +1,4 @@
+head:
+  styles:
+    -
+      href: style.css

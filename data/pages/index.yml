@@ -1,0 +1,13 @@
+head:
+  title: "Home page"
+
+content:
+  html: |
+    <h1>Look ma!</h1>
+    <p>I've built a simple static site with help of Bundlebars grunt task!</p>
+    <p><img src="img/welcome.jpg" alt=""></p>
+
+nav:
+  items:
+    -
+      isActive: true

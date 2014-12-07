@@ -1,0 +1,10 @@
+<div class="nav">
+  {{#each nav.items}}
+    <a href="{{href}}" class="
+      nav__item
+      {{#if isActive}} nav__item_active{{/if}}
+    ">
+      {{title}}
+    </a>
+  {{/each}}
+</div>

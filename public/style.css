@@ -1,0 +1,39 @@
+html,
+body {
+  margin: 0;
+  padding: 10px;
+}
+
+.header {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.logo {
+  display: inline-block;
+  vertical-align: middle;
+  width: 70px;
+  height: 70px;
+  background-size: 70px 70px;
+}
+
+.nav {
+  display: inline-block;
+}
+
+.nav__item {
+  display: inline-block;
+  margin-left: 10px;
+  color: brown;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.nav__item_active {
+  text-decoration: none;
+}
+
+.footer {
+  border-top: 1px solid #ccc;
+  padding: 10px;
+}
