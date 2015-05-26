@@ -1,4 +1,4 @@
-# bundlebars-static-site-seed v0.1.0
+# bundlebars-static-site-seed
 
 Static site built with [Bundlebars](https://github.com/wallarm/bundlebars).
 
